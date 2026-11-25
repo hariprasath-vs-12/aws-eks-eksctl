@@ -50,7 +50,7 @@ aws sts get-caller-identity
 ## Project Structure
 
 ```text
-EKS--Terraform--eksctl/
+EKS----eksctl/
 │
 ├── create-eks.sh
 └── README.md
@@ -61,13 +61,13 @@ EKS--Terraform--eksctl/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hariprasath-vs-12/EKS--Terraform--eksctl.git
+git clone https://github.com/hariprasath-vs-12/EKS----eksctl.git
 ```
 
 ### 2. Navigate to the Project
 
 ```bash
-cd EKS--Terraform--eksctl
+cd EKS----eksctl
 ```
 
 ### 3. Give Execute Permission
